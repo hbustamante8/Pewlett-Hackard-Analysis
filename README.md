@@ -40,13 +40,13 @@ View of first 20 rows of mentorship table that contains information about the em
 ### Further Observations
 
 
-1) The breakdown by title for the mentorship program shows that senior staff and senior engineers would have the greatest number of mentors compared to the other titles. Assistant Engineer has the lowest amount of individuals for the the mentorship program in those roles.
+1) A new table created by a query highlights the mentorship program's senior staff and senior engineers would have the greatest number of mentors compared to the other titles. Assistant Engineer has the lowest amount of individuals for the the mentorship program in those roles.
 
-A query used to breakdown the mentorship title counts is show in the table below.
+The mentorship title count table is shown below.
 
 ![image](https://user-images.githubusercontent.com/96553992/154696503-009f2cba-9488-479e-84b1-264bdc05921c.png)
 
-2) Another observation that is breakdown of employees retiring by birth year. The numbers are similar for each year but are significantly lower for the employees born in 1952. The table is valuable because it reveals  that similar number of employees will be hired after the current calendar year.
+2) Another observation is made from another query that gives a table  of employees retiring by their birth year. The numbers are similar for each year but are significantly lower for the employees born in 1952. The table is valuable because it reveals that similar number of employees will need to be hired after the current calendar year.
 
 Below this table that resulted from the query.
 
