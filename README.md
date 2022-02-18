@@ -2,7 +2,7 @@
 
 ## Overview of the analysis 
 
-Pewlett Hackard is starting to think about which positions need to be filled in the future as well as putting together retirement packages for those who qualify. There may be even thousands of jobs open in the coming year or so and the company would like to prepare for the vacancies. The purpose of this project is to find out which employees will be retiring to plan for new staff and prepare a mentorship initiative. Using PostgreSQL and data engineering, findings are provided to Pewlett Hackard.
+Pewlett Hackard is starting to think about which positions need to be filled in the future as well as putting together retirement packages for those who qualify. There may be even thousands of jobs open in the coming year or so and the company would like to prepare for the vacancies. The purpose of this project is to find out which employees will be retiring to plan for new staff and prepare a mentorship initiative. Using PostgreSQL and data engineering, findings are provided to Pewlett Hackard. This will aid in preparing for the "silver tsunami" as many current employees reach retirement age.
 
 Below is an Entity relationship diagram to visualize the relationship between the different data sources to complete this analysis.
 
