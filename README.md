@@ -37,5 +37,8 @@ The breakdown by title for the mentorship program shows that senior staff and se
 
 ![image](https://user-images.githubusercontent.com/96553992/154696503-009f2cba-9488-479e-84b1-264bdc05921c.png)
 
+Another observation that is breakdown of employees retiring by birth year. The numberd are pretty even but are significantly lower for the employees born in 1952. 
+
+![Screen Shot 2022-02-18 at 10 00 04 AM](https://user-images.githubusercontent.com/96553992/154707313-fb132c74-60f1-4d57-84bf-fec006b617d1.png)
 
 
