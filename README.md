@@ -12,11 +12,15 @@ Below is an Entity relationship diagram to visulaize the relationsip bewtween th
 
 ## Results 
 
+![image](https://user-images.githubusercontent.com/96553992/154606662-bf4c340b-775c-429d-a05f-e1bfdbf64177.png)
+
+
 
 * Senior roles account for 70.2 % (50,842 of 72,458 ) of staff that is going to retire.
-* * There are only 2 managers that will be expected to retire within the very near future
-* There are 1549 employees that could be considered for the mentorship program Pewlett-Hacdkard is plannihng to launch.
-* 
+* There are 72,458 that have employees that have birthdays between 01-01-1952 and 12-31-1955
+* There are only 2 managers that will be expected to retire within the very near future
+* There are 1549 employees that could be considered for the mentorship program Pewlett-Hackard is planning to launch.
+* The potential mentorship program list  
 
 
 ## Summary
