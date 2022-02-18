@@ -25,9 +25,17 @@ Below is an Entity relationship diagram to visulaize the relationsip bewtween th
 
 ## Summary
 
+### Questions Answered
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
   * There will need to be 72,458 roles that will need to be filled in the next three years
 3) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
   * The 1549 employees that are elgible to participate in the mentorship program. Assuming that not everyone would agree to be a part of the mentorship program, I do not think there are enough to to properly mentor the next generation of employees at Pewlett Hackard 
 
-##
+### Further Observations
+
+The breakdown by title for the mentorship program shows that senior staff and senior engineers would have the most amount of mentors compared to the other titles. A query used to breakdown the mentorship title counts is show in the table below.
+
+![image](https://user-images.githubusercontent.com/96553992/154696503-009f2cba-9488-479e-84b1-264bdc05921c.png)
+
+
+
