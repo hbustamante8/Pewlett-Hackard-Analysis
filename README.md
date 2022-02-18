@@ -12,15 +12,17 @@ Below is an Entity relationship diagram to visualize the relationship between th
 
 ## Results 
 
+### Tables 
+
 View of retirement titles breakdown.
 
 ![image](https://user-images.githubusercontent.com/96553992/154606662-bf4c340b-775c-429d-a05f-e1bfdbf64177.png)
 
-View of mentorship table. 
+View of first 20 rows of mentorship table that contains information about the employees eligible for the mentorship intitiative. 
 
 ![image](https://user-images.githubusercontent.com/96553992/154718261-a3ae7052-0f11-4a65-852b-8671464b8964.png)
 
-
+## Results of tables
 * Senior roles account for 70.2 % (50,842 of 72,458) of staff that is going to retire.
 * There are 72,458 that have employees that have birthdays between 01-01-1952 and 12-31-1955
 * There are only 2 managers that will be expected to retire within the very near future
@@ -32,8 +34,8 @@ View of mentorship table.
 
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
   * There will need to be 72,458 roles that will need to be filled in the next three years
-3) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-  * The 1549 employees that are eligible to participate in the mentorship program. Assuming that not everyone would agree to be a part of the mentorship program, I do not think there are enough to properly mentor the next generation of employees at Pewlett Hackard 
+2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+  * The 1549 employees that are eligible to participate in the mentorship program. Assuming that not everyone would agree to be a part of the mentorship program, I do not think there are enough employees to properly mentor the next generation of employees at Pewlett Hackard.
 
 ### Further Observations
 
