@@ -12,8 +12,13 @@ Below is an Entity relationship diagram to visualize the relationship between th
 
 ## Results 
 
+View of retirement titles breakdown.
+
 ![image](https://user-images.githubusercontent.com/96553992/154606662-bf4c340b-775c-429d-a05f-e1bfdbf64177.png)
 
+View of mentorship table. 
+
+![image](https://user-images.githubusercontent.com/96553992/154718261-a3ae7052-0f11-4a65-852b-8671464b8964.png)
 
 
 * Senior roles account for 70.2 % (50,842 of 72,458) of staff that is going to retire.
