@@ -14,7 +14,7 @@ Below is an Entity relationship diagram to visualize the relationship between th
 
 ### Tables 
 
-View of retirement titles table breakdown.
+View of retirement titles table breakdown. Table shows the count of each position title that is going to retire in the near future.
 
 ![image](https://user-images.githubusercontent.com/96553992/154606662-bf4c340b-775c-429d-a05f-e1bfdbf64177.png)
 
