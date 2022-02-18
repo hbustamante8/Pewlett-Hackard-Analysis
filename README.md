@@ -2,7 +2,7 @@
 
 ## Overview of the analysis 
 
-Pewlett Hackard is starting to think about which positions need to be filled in the future as well as putting together retirement packages for those who qualify. There may be even thousands of jobs open in the coming year or so and the company would like to prepare for the vacancies. The purpose of this project is to find out which employees will be retiring to plan for new staff and prepare a mentorship initiative. Using PostgreSQL and data engineering, findings are provided to Pewlett Hackard. This will aid in preparing for the "silver tsunami" as many current employees reach retirement age.
+Pewlett Hackard is starting to think about which positions need to be filled in the future as well as putting together retirement packages for those who qualify. There will be a tremendous amount of job openings in the coming year or so and the company would like to prepare for the vacancies. The purpose of this project is to find out which employees will be retiring to plan for new staff and create a list for the  mentorship initiative. Using PostgreSQL and data engineering, findings are provided to Pewlett Hackard. This will aid in preparing for the "silver tsunami" as many current employees reach retirement age.
 
 Below is an Entity relationship diagram to visualize the relationship between the different data sources to complete this analysis.
 
@@ -14,11 +14,11 @@ Below is an Entity relationship diagram to visualize the relationship between th
 
 ### Tables 
 
-View of retirement titles breakdown.
+View of retirement titles table breakdown.
 
 ![image](https://user-images.githubusercontent.com/96553992/154606662-bf4c340b-775c-429d-a05f-e1bfdbf64177.png)
 
-View of first 20 rows of mentorship table that contains information about the employees eligible for the mentorship intitiative. 
+View of first 20 rows of mentorship table that contains information about the employees eligible for the mentorship initiative. 
 
 ![image](https://user-images.githubusercontent.com/96553992/154718261-a3ae7052-0f11-4a65-852b-8671464b8964.png)
 
@@ -40,13 +40,13 @@ View of first 20 rows of mentorship table that contains information about the em
 ### Further Observations
 
 
-1) A new table created by a query highlights the mentorship program's senior staff and senior engineers would have the greatest number of mentors compared to the other titles. Assistant Engineer has the lowest amount of individuals for the the mentorship program in those roles.
+1) A new table created by a query highlights the mentorship program's senior staff and senior engineers would have the greatest number of mentors compared to the other titles. Assistant Engineer has the lowest number of individuals for the mentorship program in those roles.
 
 The mentorship title count table is shown below.
 
 ![image](https://user-images.githubusercontent.com/96553992/154696503-009f2cba-9488-479e-84b1-264bdc05921c.png)
 
-2) Another observation is made from another query that gives a table  of employees retiring by their birth year. The numbers are similar for each year but are significantly lower for the employees born in 1952. The table is valuable because it reveals that similar number of employees will need to be hired after the current calendar year.
+2) Another observation is made from another query that gives a table of employees retiring by their birth year. The numbers are similar for each year but are significantly lower for the employees born in 1952. The table is valuable because it reveals that similar number of employees will need to be hired after the current calendar year.
 
 Below this table that resulted from the query.
 
