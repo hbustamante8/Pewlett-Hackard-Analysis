@@ -2,7 +2,7 @@
 
 ## Overview of the analysis 
 
-Pewlett Hackard is starting to think about which positions need to be filled in the future as well as putting together retirement packages for those who qualify. There will be a tremendous amount of job openings in the coming year or so and the company would like to prepare for the vacancies. The purpose of this project is to find out which employees will be retiring to plan for new staff and create a list for the  mentorship initiative. Using PostgreSQL and data engineering, findings are provided to Pewlett Hackard. This will aid in preparing for the "silver tsunami" as many current employees reach retirement age.
+Pewlett Hackard is starting to think about which positions need to be filled in the future as well as putting together retirement packages for those who qualify. There will be a tremendous amount of job openings in the coming year or so and the company would like to prepare for the vacancies. The purpose of this project is to find out which employees will be retiring to plan for new staff and create a list for the  mentorship program. Using PostgreSQL and data engineering, findings are provided to Pewlett Hackard. This will aid in preparing for the "silver tsunami" as many current employees reach retirement age.
 
 Below is an Entity relationship diagram to visualize the relationship between the different data sources to complete this analysis.
 
@@ -35,12 +35,12 @@ View of first 20 rows of mentorship table that contains information about the em
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
   * There will need to be 72,458 roles that will need to be filled in the next three years
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-  * Currently, there are  1549 employees that are eligible to participate in the mentorship program. Assuming that not everyone would agree to be a part of the mentorship program, I do not think there are enough employees to properly mentor the next generation of employees at Pewlett Hackard. The mentorship initiative would require more education resources or for the age that qualifies for the intiative to be expanded.
+  * Currently, there are  1549 employees that are eligible to participate in the mentorship program. Assuming that not everyone would agree to be a part of the mentorship program, I do not think there are enough employees to properly mentor the next generation of employees at Pewlett Hackard. The mentorship program would require more education resources or for the age that qualifies for the programto be expanded.
 
 ### Further Observations
 
 
-1) A new table created by a query highlights the mentorship program's senior staff and senior engineers would have the greatest number of mentors compared to the other titles. Assistant Engineer has the lowest number of individuals for the mentorship program in those roles.
+1) A new table created by a query highlights the mentorship programs' senior staff and senior engineers would have the greatest number of mentors compared to the other titles. Assistant Engineer has the lowest number of individuals for the mentorship program in those roles.
 
 The mentorship title count table is shown below.
 
