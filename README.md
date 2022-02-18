@@ -24,7 +24,7 @@ View of first 20 rows of mentorship table that contains information about the em
 
 ## Results of tables
 * Senior roles account for 70.2 % (50,842 of 72,458) of staff that is going to retire.
-* There are 72,458 that have employees that have birthdays between 01-01-1952 and 12-31-1955
+* There are 72,458 employees that have birthdays between 01-01-1952 and 12-31-1955
 * There are only 2 managers that will be expected to retire within the very near future
 * There are 1549 employees that could be considered for the mentorship program Pewlett-Hackard is planning to launch.
 
