@@ -46,7 +46,7 @@ The mentorship title count table is shown below.
 
 ![image](https://user-images.githubusercontent.com/96553992/154696503-009f2cba-9488-479e-84b1-264bdc05921c.png)
 
-2) Another observation is made from another query that gives a table of employees retiring by their birth year. The numbers are similar for each year but are significantly lower for the employees born in 1952. The table is valuable because it reveals that similar number of employees will need to be hired after the current calendar year.
+2) Another observation is made from a query that gives a table of employees retiring by their birth year. The numbers are similar for each year but are significantly lower for the employees born in 1952. The table is valuable because it reveals that similar number of employees will need to be hired after the current calendar year.
 
 Below this table that resulted from the query.
 
